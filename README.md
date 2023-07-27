@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @indieklem
-- 👀 I’m interested in : Game development & pixel art
-- 🌱 I’m currently working on : My very first puzzle video game in pixel art inspired by Cthulhu and Lovecraft
-- 👑 How to follow my work : https://indieklem.com/ is the way
+- 👀 I’m interested in Interface, Game development & pixel art
+- 🌱 I’m currently working on my very first video game in pixel art
+- 👑 How to follow my work : https://indieklem.com/
 - 📫 How to reach me : You can DM me here https://twitter.com/indieklem, https://www.instagram.com/indieklem/
 
 
